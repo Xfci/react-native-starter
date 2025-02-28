@@ -6,7 +6,6 @@ import { Appearance, StatusBar } from 'react-native';
 ["Auth Screen İmports"]
 import Login from '../src/Auth-Screen-Folder/screens/login_screen';
 import Register from '../src/Auth-Screen-Folder/screens/register_screen';
-import Deneme from './Auth-Screen-Folder/screens/deneme';
 
 ["Main Screen İmports"]
 import Main from '../src/Main-Screen-Folder/screens/main_screen'
@@ -21,7 +20,6 @@ export default function App() {
     <>
       <NavigationContainer>
         <Stack.Navigator screenOptions={{ headerShown: false, ...TransitionPresets.ModalSlideFromBottomIOS }}>
-          <Stack.Screen name='deneme' component={Deneme} />
           <Stack.Screen name='login' component={Login} />
           <Stack.Screen name='register' component={Register} />
           <Stack.Screen name='main' component={Main} />
