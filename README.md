@@ -1,8 +1,8 @@
 # react-native-starter
 React Native starter tamplate. Download and use.
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]
-![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![]
-![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
+![](https://img.shields.io/github/stars/Xfci/editor.md.svg) ![]
+![](https://img.shields.io/github/forks/Xfci/editor.md.svg) ![]
+![](https://img.shields.io/github/tag/Xfci/editor.md.svg) ![]
 
 ## features
 ✅ Firebase configurations.
