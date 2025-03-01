@@ -9,11 +9,13 @@ If the project name is not a problem, clone it
 `$ git clone https://github.com/Xfci/react-native-starter/`
 
 
+
 Or create a project and add it to it
 
 `$ npx create-expo-app@latest ProjectName`
 
 Go inside the project file and paste 'src' folder
+
 Done
 
 ## 🧩 features
