@@ -3,6 +3,21 @@ React Native starter tamplate. Simple download and use.
 
 ![](https://img.shields.io/badge/version-0.6-blue)
 
+## 📂 installation
+If the project name is not a problem, clone it
+
+`$ git clone https://github.com/Xfci/react-native-starter/`
+
+
+
+Or create a project and add it to it
+
+`$ npx create-expo-app@latest ProjectName`
+
+Go inside the project file and paste 'src' folder
+
+Done
+
 ## 🧩 features
 ✅ Firebase configurations.
 
