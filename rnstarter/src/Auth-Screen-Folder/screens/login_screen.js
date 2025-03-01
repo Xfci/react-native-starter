@@ -132,7 +132,7 @@ const Login = () => {
       </TouchableOpacity>
       <TouchableOpacity style={{ marginTop: 10 }} onPress={() => { promptAsync() }}>
         <Text style={{ color: 'blue', textDecorationLine: 'underline', fontSize: 17 }}>
-          Create account
+          Google login
         </Text>
       </TouchableOpacity>
       <StatusBar barStyle={theme == 'dark' ? 'light-content' : 'dark-content'} backgroundColor={theme == 'dark' ? '#000' : '#fff'} />
